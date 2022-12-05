@@ -1,11 +1,6 @@
 # Ministra install on Ubuntu 20.04 LTS / 18.04 LTS
 Ministra Portal auto install script on Ubuntu 20.04 LTS / 18.04 LTS
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=4H8VAGMLW5RMA)  You can make one-time donations via PayPal.
-
-##### Runs on
-[![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
-
 This script work only on Clean Ubuntu 20.04 LTS / 18.04 LTS
 
 Ministra auto install script
@@ -14,7 +9,7 @@ Ministra auto install script
 ## Installation
 ```bash
 apt-get install git
-git clone https://github.com/madzharov/ministra-install-ubuntu-20.04.git
+git clone https://github.com/aiemassfiria/ministra-install-ubuntu-20.04.git
 cd ministra-install-ubuntu-20.04/
 ```
 
@@ -53,9 +48,4 @@ truncate ch_links;
 truncate itv;
 ```
 
-## Video
 
-[![Click to Watch](https://img.youtube.com/vi/6b2vlc-jPPQ/hq720.jpg)](https://www.youtube.com/watch?v=6b2vlc-jPPQ "Click to Watch")
-
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=4H8VAGMLW5RMA)  You can make one-time donations via PayPal.
